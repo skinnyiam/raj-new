@@ -16,12 +16,12 @@ const poppins = Poppins({
 });
 
 export const metadata = {
-  title: 'Aureon Design & Build — Designing Inspiring Workspaces',
-  description: 'Aureon is a premium Interior Design & Build firm crafting inspiring workspaces, hotels, retail and residential experiences that transform businesses.',
-  keywords: 'interior design, design and build, workspace design, corporate interiors, luxury interiors, MEP, general contracting',
+  title: 'Raj Furniture | Interior Contractors & Workforce Solutions',
+  description: 'Raj Furniture is a leading interior contracting and workforce solutions company delivering commercial, retail, residential, hospital and corporate interior projects across India.',
+  keywords: 'interior contractors, workforce providers, commercial interiors, retail fit-outs, office interiors, hospital interiors, hotel interiors, POP works, marble flooring, painting, Mumbai, India',
   openGraph: {
-    title: 'Aureon Design & Build',
-    description: 'Designing Inspiring Workspaces That Transform Businesses',
+    title: 'Raj Furniture — Interior Contractors & Workforce Solutions',
+    description: 'Leading Interior Contractors & Workforce Providers for Commercial, Retail, Residential, Hospitality and Corporate Projects Across India.',
     type: 'website',
   },
 };
