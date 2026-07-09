@@ -176,7 +176,7 @@ function Nav({ onQuote }) {
             </div>
             <div className="leading-tight">
               <div className="font-poppins font-bold text-white text-lg tracking-wide">RAJ FURNITURE</div>
-              <div className="text-[10px] text-gold tracking-[0.3em]">INTERIORS · WORKFORCE</div>
+              <div className="text-[10px] text-gold tracking-[0.3em]">INERIORS · WORKFORCE</div>
             </div>
           </a>
 
